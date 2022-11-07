@@ -16,14 +16,14 @@ export const Sobre = () => {
     return (
         <>
             <section className='fundo-sessao'>
-                <hr />
+                {/* <hr /> */}
 
                 <div className="objetivos">
-                    <h1>Um pouco sobre os objetivos da ecoshop</h1>
+                    <h1>EM DESENVOLVIMENTO 🖥️</h1>
                 </div>
 
 
-                <div className="lista-objetivos">
+                {/* <div className="lista-objetivos">
                     <ul>
                         <li>
                             Estimular o reuso de materia prima descartada. Incentivar por materiais
@@ -113,7 +113,7 @@ export const Sobre = () => {
                             </CardContent>
                         </CardActionArea>
                     </Card>
-                </div>
+                </div> */}
 
             </section>
         </>
